@@ -40,7 +40,14 @@ Dataset : https://www.kaggle.com/fayomi/advertising (Kaggle Dataset)<br />
 Purpose : Classifying either a user will click on Ad or not (Binary Classification)<br />
 ### Installation
 use : pip install -r requirements.txt<br />
-
+### Notebook
+![dataset](https://user-images.githubusercontent.com/63501850/94116065-67e88180-fdff-11ea-8b5a-e7a476063809.PNG)
+### Age vs Daily Time on Internet
+![AGE-Daily_time_on_internet](https://user-images.githubusercontent.com/63501850/94116061-661ebe00-fdff-11ea-9152-c12b096d6cde.png)
+### Pair Plot
+![pairplot](https://user-images.githubusercontent.com/63501850/94116072-6919ae80-fdff-11ea-9a75-86af7e062aca.png)
+### Confusion Matrix
+![Confusion Metrix](https://user-images.githubusercontent.com/63501850/94116070-68811800-fdff-11ea-9d88-0250c4809eab.png)
 
 
 
