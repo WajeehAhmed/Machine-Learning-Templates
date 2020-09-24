@@ -32,5 +32,5 @@ Model : Decision Tree<br />
 ### Installation
 use : pip install -r requirements.txt<br />
 ### Decision Tree Plot
-
+![DT_plot](https://user-images.githubusercontent.com/63501850/94113264-79c82580-fdfb-11ea-9b22-135ac5b6972b.png)
 
