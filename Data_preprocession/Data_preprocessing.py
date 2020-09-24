@@ -8,7 +8,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import train_test_split 
 from sklearn.preprocessing import StandardScaler
 #Data Aqusition
-dataset = pd.read_csv('C:/Users/Cipher/Desktop/6.1 Machine_Learning_A-Z_New.zip/Machine Learning A-Z New/Part 1 - Data Preprocessing/Part 1 - Data Preprocessing/Data.csv')
+dataset = pd.read_csv('sales.csv')
 #Dependent or feature Variables
 features = dataset.iloc[:,:-1].values
 #Independent or labels Variables
