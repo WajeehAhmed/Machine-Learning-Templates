@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 16 16:16:31 2020
 
-@author: Cipher
+@author: Wajeeh Ahmed
 """
 # Importing the libraries
 import numpy as np
