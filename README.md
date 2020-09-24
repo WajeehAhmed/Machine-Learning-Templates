@@ -6,4 +6,18 @@ Including handling missing values using SimpleImputer<br />
 Performed OneHotEncoder for categorical data<br />
 Standard Scaler for scalling<br />
 ### Installation
-use : pip install -r requirements.txt
+use : pip install -r requirements.txt<br />
+
+## Linear Regression (Simple)
+This module is based on predicting Salary on the basis of Year of Experience<br />
+In this Repo I have used the above 'Data preprocession' for data preprocessing <br />
+Later performed Linear Regression using sklearn -> Linear Model of Linear Regression <br />
+The dataset used is of Year of Experience and Salary<br /><br />
+### Dataset
+![image](https://user-images.githubusercontent.com/63501850/94110014-c2c9ab00-fdf6-11ea-9038-4008c12ea2e6.png)
+<br />
+### Installation
+use : pip install -r requirements.txt<br />
+### Train Plot
+
+### Test Plot
