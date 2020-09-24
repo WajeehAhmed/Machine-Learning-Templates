@@ -19,5 +19,6 @@ The dataset used is of Year of Experience and Salary<br /><br />
 ### Installation
 use : pip install -r requirements.txt<br />
 ### Train Plot
-
+![Train_plot](https://user-images.githubusercontent.com/63501850/94110973-43d57200-fdf8-11ea-829e-c1329644b56b.png)
 ### Test Plot
+![Test_plot](https://user-images.githubusercontent.com/63501850/94110979-45069f00-fdf8-11ea-9a14-c4216b4bad6c.png)
