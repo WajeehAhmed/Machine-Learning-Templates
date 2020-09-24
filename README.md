@@ -22,3 +22,15 @@ use : pip install -r requirements.txt<br />
 ![Train_plot](https://user-images.githubusercontent.com/63501850/94110973-43d57200-fdf8-11ea-829e-c1329644b56b.png)
 ### Test Plot
 ![Test_plot](https://user-images.githubusercontent.com/63501850/94110979-45069f00-fdf8-11ea-9a14-c4216b4bad6c.png)
+
+## Linear Regression (Multiple)
+This module contain code that handle multiple regression<br />
+
+## Decision Tree Regression
+This module is used to perform analysis on a person claiming a certain salary I used Decision Tree to check if his claim is truth or false<br />
+Model : Decision Tree<br />
+### Installation
+use : pip install -r requirements.txt<br />
+### Decision Tree Plot
+
+
